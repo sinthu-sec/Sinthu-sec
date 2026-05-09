@@ -5,7 +5,7 @@ Hi, I'm Sinthu 👋
 🌐 Learning Networking, Linux & Web Security
 
 🚀 Skills
-
+- C#, SQL, HTML, CSS, JavaScript, Networking
 - Networking Basics (TCP/IP, DNS, HTTP)
 - Linux Fundamentals
 - Nmap, Burp Suite
